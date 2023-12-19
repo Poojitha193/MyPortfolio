@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-//import Resume from "../../public/resume.pdf";
+import resume from "../assets/resume.pdf";
 
 const SocialLinks = () => {
   const links = [
@@ -38,10 +38,10 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Resume <BsFillPersonLinesFill size={30} />
+          <a href = {resume}>Resume </a><BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      //href : "/resume.pdf",
       style: "rounded-br-md",
       download: true,
     },
