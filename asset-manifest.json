@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.4cce21f8.css",
-    "main.js": "/myPortfolio/static/js/main.f93ead64.js",
+    "main.css": "/myPortfolio/static/css/main.5cd220d3.css",
+    "main.js": "/myPortfolio/static/js/main.cb6cad91.js",
     "static/media/rythuSeva.png": "/myPortfolio/static/media/rythuSeva.27ce77de637b67534d9d.png",
     "static/media/carSharing.png": "/myPortfolio/static/media/carSharing.26148e7836a2f2b73e48.png",
     "static/media/myPortfolio.png": "/myPortfolio/static/media/myPortfolio.387451385c1a54803794.png",
-    "static/media/resume.pdf": "/myPortfolio/static/media/resume.1dfd580944e39d2e4ee5.pdf",
     "static/media/c.png": "/myPortfolio/static/media/c.08c0c53e1511c8415bd0.png",
+    "static/media/resume.pdf": "/myPortfolio/static/media/resume.a7c2b8a263a7a49867d8.pdf",
     "static/media/mySQL.png": "/myPortfolio/static/media/mySQL.34659381e6d75a30a817.png",
+    "static/media/python.png": "/myPortfolio/static/media/python.2f75c9f8c68f063987c7.png",
     "static/media/heroImage.jpg": "/myPortfolio/static/media/heroImage.478d65f22235cef220d4.jpg",
     "static/media/java.png": "/myPortfolio/static/media/java.ddf8676bd569fe01ab44.png",
     "static/media/github.png": "/myPortfolio/static/media/github.3b9e32903aa89111875d.png",
@@ -15,13 +16,12 @@
     "static/media/capchaGenerator.png": "/myPortfolio/static/media/capchaGenerator.e25c8e195dff30b54e4f.png",
     "static/media/css.png": "/myPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/bankManagementSystem.png": "/myPortfolio/static/media/bankManagementSystem.3e3b57af43734976db68.png",
-    "static/media/javascript.png": "/myPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/myPortfolio/index.html",
-    "main.4cce21f8.css.map": "/myPortfolio/static/css/main.4cce21f8.css.map",
-    "main.f93ead64.js.map": "/myPortfolio/static/js/main.f93ead64.js.map"
+    "main.5cd220d3.css.map": "/myPortfolio/static/css/main.5cd220d3.css.map",
+    "main.cb6cad91.js.map": "/myPortfolio/static/js/main.cb6cad91.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cce21f8.css",
-    "static/js/main.f93ead64.js"
+    "static/css/main.5cd220d3.css",
+    "static/js/main.cb6cad91.js"
   ]
 }
