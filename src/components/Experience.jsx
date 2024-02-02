@@ -2,7 +2,7 @@ import React from "react";
 
 import html from "../assets/html.png";
 import css from "../assets/css.png";
-import javascript from "../assets/javascript.png";
+import python from "../assets/python.png";
 import java from "../assets/java.png";
 import mySQL from "../assets/mySQL.png";
 import c from "../assets/c.png";
@@ -13,39 +13,39 @@ const Experience = () => {
   const techs = [
     {
       id: 1,
-      src: html,
-      title: "HTML",
-      style: "shadow-orange-500",
-    },
-    {
-      id: 2,
-      src: css,
-      title: "CSS",
-      style: "shadow-blue-500",
-    },
-    {
-      id: 3,
-      src: javascript,
-      title: "JavaScript",
-      style: "shadow-yellow-500",
-    },
-    {
-      id: 4,
       src: java,
       title: "Java",
       style: "shadow-blue-600",
     },
     {
-      id: 5,
-      src: mySQL,
-      title: "MySQL",
-      style: "shadow-sky-400",
-    },
-    {
-      id: 6,
+      id: 2,
       src: c,
       title: "C Programming",
       style: "shadow-blue-400",
+    },
+    {
+      id: 3,
+      src: python,
+      title: "Python",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 4,
+      src: html,
+      title: "HTML",
+      style: "shadow-orange-500",
+    },
+    {
+      id: 5,
+      src: css,
+      title: "CSS",
+      style: "shadow-blue-500",
+    },
+    {
+      id: 6,
+      src: mySQL,
+      title: "MySQL",
+      style: "shadow-sky-400",
     },
     {
       id: 7,
